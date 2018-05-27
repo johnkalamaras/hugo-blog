@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "all_in.py"
+subtitle: My journey into the world of Python
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
